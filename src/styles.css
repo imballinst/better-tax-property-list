@@ -1,0 +1,9 @@
+.has-error > label,
+.has-error > .error-message {
+  color: theme('textColor.red.500');
+}
+
+.has-error > input,
+.has-error > button {
+  border-color: theme('borderColor.red.500');
+}
