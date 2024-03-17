@@ -4,7 +4,7 @@ There are, I think, few parts that can be improved in the property list of Indon
 
 ## Pagination
 
-Get rid of the pagination. Seriously, it adds a friction when we want to update properties from the past year. Every time we add or update, the pagination goes back to the first page. Let's take an example, I usually manage my properties before submitting to the tax website in a spreadsheet. Does spreadsheet have pages? No? Then, that's the way we should go.
+Get rid of the pagination. Seriously, it adds a friction when we want to update properties from the past year. Every time we add or update, the pagination goes back to the first page. Let's take an example, I usually manage my properties before submitting to the tax website in a spreadsheet. Does spreadsheet have paginations? No? Then, that's the way we should go.
 
 ## Modal
 
